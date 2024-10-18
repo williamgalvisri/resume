@@ -2,6 +2,10 @@ lang: es
 project:
   type: website
   output-dir: docs
+website:
+  title: "William Galvis | Resume"
+  favicon: img/favicon.ico
+  description: My resume
 theme:
   dark: darkly
   light: flatly

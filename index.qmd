@@ -53,10 +53,10 @@ quarto-theme-toggle:
 #### Desarrollador Full Stack | Nowstark S.A.S (Co-Founder)
 *2021 - 2022*
 
-- Implementé la estructura frontend basada en Next.js para un sistema de envío masivo de correos con backend en <mark>.NET C#<mark>.
-- Desarrollé la integración de sockets con <mark>SignalR<mark> para mantener un flujo continuo de datos en tiempo real, añadiendo notificaciones dinámicas en la interfaz.
+- Implementé la estructura frontend basada en Next.js para un sistema de envío masivo de correos con backend en <mark>.NET C#</mark>.
+- Desarrollé la integración de sockets con <mark>SignalR</mark> para mantener un flujo continuo de datos en tiempo real, añadiendo notificaciones dinámicas en la interfaz.
 - Implementé plantillas de correos personalizadas para el envío a distintos clientes y creé formularios dinámicos adaptados para la migración de datos según las necesidades de cada uno.
-- Participé en desarrollo de una tienda en línea para la venta de ropa de segunda mano, usando <mark>Next js<mark> y <mark>Node js<mark> como backend.
+- Participé en desarrollo de una tienda en línea para la venta de ropa de segunda mano, usando <mark>Next js</mark> y <mark>Node js</mark> como backend.
 
 #### Ingeniero Senior | DigitalWare
 *2022 - 2024*

@@ -15,7 +15,7 @@ quarto-theme-toggle:
 :::
 
 ### William Galvis Rivera
-*Web Developer*
+*Desarrollador web*
 
 ``React`` ``Angular`` ``Next.js`` ``HTML`` ``CSS`` ``JavaScript`` ``TypeScript``
 ``Node.js`` ``C#`` ``MongoDB`` ``PostgreSQL`` ``SQL Server`` ``Firebase``

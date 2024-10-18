@@ -1,0 +1,96 @@
+---
+format:
+  html:
+    toc: true
+    css: styles.css
+    page-layout: custom
+quarto-theme-toggle:
+  default: auto
+---
+
+::: {.container}
+::: {.sidebar}
+::: {.img-profile}
+![](img/profile.webp)
+:::
+
+### William Galvis Rivera
+*Web Developer*
+
+``React`` ``Angular`` ``Next.js`` ``HTML`` ``CSS`` ``JavaScript`` ``TypeScript``
+``Node.js`` ``C#`` ``MongoDB`` ``PostgreSQL`` ``SQL Server`` ``Firebase``
+:::
+
+::: {.main-content}
+## 🧑🏾 Perfil Profesional
+
+::: {.perfil}
+<mark>Desarrollador Full Stack</mark> con habilidades en <mark>frontend</mark> y <mark>backend</mark>, altamente proactivo, adaptable y con enfoque en el trabajo colaborativo. Cuento con experiencia sólida en tecnologías como <mark>Angular</mark>, <mark>React</mark>, <mark>Node.js</mark> y <mark>NestJS</mark>, implementando soluciones eficientes y escalables. Especializado en control de versiones con <mark>Git</mark> y en el uso de <mark>bases de datos relacionales</mark> y <mark>no relacionales</mark>, como <mark>SQL Server</mark>, <mark>PostgreSQL</mark> y <mark>Firebase</mark>. Apasionado por la innovación tecnológica, siempre en búsqueda de nuevos retos que impulsen mi crecimiento profesional y aporten valor a proyectos en los que colaboro.
+
+
+</br>
+*Con cada proyecto, una nueva historia de innovación y creatividad.*
+:::
+
+## 👨🏾‍💻 Experiencia Laboral
+
+::: {.experiencia}
+####  Desarrollador Fullstack | Mobilsoft S.A.S
+*2016 - 2017*
+
+- Implementé diversas aplicaciones contables, sistemas de inventario y puntos de venta (POS), siguiendo una estructura en capas bajo la dirección del arquitecto de la empresa.
+- Desarrollé soluciones robustas para la generación de reportes financieros y de inventario.
+- Lideré la migración de datos desde archivos Excel hacia bases de datos, optimizando el manejo de la información y mejorando la integridad de los datos.
+
+#### Desarrollador Full Stack | Pluriza S.A.S
+*2019 - 2021*
+
+- Participé en el desarrollo de una aplicación inmobiliaria, creando el panel administrativo para gestionar la información del sitio web principal, utilizando <mark>React</mark> y <mark>Node.js</mark> como backend.
+- Mejoré el flujo de trabajo con <mark>Git</mark> al socializar y aplicar la metodología <mark>Git Flow</mark>, facilitando la colaboración del equipo.
+- Colaboré en el desarrollo de una aplicación <mark>B2B</mark> para la creación de tiendas en línea desplegadas en <mark>AWS</mark>, implementando un sistema de integración continua con <mark>S3 Buckets</mark> y <mark>Node.js</mark> como backend.
+- Formé parte de un proyecto internacional para la gestión de inventario de insumos eléctricos, utilizando <mark>Angular</mark> y <mark>Firebase</mark>. Desarrollé componentes reutilizables y optimicé la aplicación como <mark>PWA</mark>, permitiendo que las encuestas funcionaran sin conexión y se sincronizaran con la nube al restablecerse la conectividad.
+
+#### Desarrollador Full Stack | Nowstark S.A.S (Co-Founder)
+*2021 - 2022*
+
+- Implementé la estructura frontend basada en Next.js para un sistema de envío masivo de correos con backend en <mark>.NET C#<mark>.
+- Desarrollé la integración de sockets con <mark>SignalR<mark> para mantener un flujo continuo de datos en tiempo real, añadiendo notificaciones dinámicas en la interfaz.
+- Implementé plantillas de correos personalizadas para el envío a distintos clientes y creé formularios dinámicos adaptados para la migración de datos según las necesidades de cada uno.
+- Participé en desarrollo de una tienda en línea para la venta de ropa de segunda mano, usando <mark>Next js<mark> y <mark>Node js<mark> como backend.
+
+#### Ingeniero Senior | DigitalWare
+*2022 - 2024*
+
+- Ingresé como desarrollador de incidencias y rápidamente fui promovido a <mark>líder</mark> de incidencias, <mark>coordinando</mark> un equipo de 6 personas y resolviendo casos complejos.
+- Participé en el desarrollo de un sistema hospitalario HIS en <mark>Angular</mark>, contribuyendo a la implementación de módulos críticos.
+- Generé reportes basados en HTML utilizando herramientas como <mark>Puppeteer</mark> para mejorar el proceso de reporte automatizado.
+- Desarrollé servicios backend en <mark>.NET C#</mark> y aplicaciones con <mark>Node.js</mark> para la implementación de servicios de manejo de imágenes.
+- Actué como <mark>arquitecto</mark> en un proyecto de PQRS, donde diseñé una arquitectura hexagonal con un patrón adaptador, reduciendo el tiempo de desarrollo en un 30%.
+:::
+
+## 🏆 Logros
+::: {.logros}
+  - Ser elegido como desarrollador del semestre en 2020 por el equipo de <mark>Pluriza</mark>
+  - Ser elegido como desarrollador del semestre de 2022 por el equipo de <mark>DigitalWare</mark>
+:::
+
+## 📖 Educación
+
+::: {.educacion}
+- #### TECNOLOGO EN ANALISIS Y DESARROLLO EN SISTEMAS DE INFORMACIÓN
+SENA (Servicio nacional de aprendizaje) | 2015 - 2017
+
+- #### TECNICO EN SISTEMAS
+SENA (Servicio nacional de aprendizaje) | 2014 - 2018
+:::
+
+## 📬 Contacto
+
+::: {.contacto}
+- **Email:** williamgalvisrivera@gmail.com
+- **Linkedin:** [Link](https://www.linkedin.com/in/william-galvis-5b8a941a6/)
+- **GitHub:** [Link](https://github.com/williamgalvisri)
+:::
+
+:::
+:::

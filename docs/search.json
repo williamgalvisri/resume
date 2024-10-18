@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html#perfil-profesional",
+    "href": "index.html#perfil-profesional",
+    "title": "",
+    "section": "🧑🏾 Perfil Profesional",
+    "text": "🧑🏾 Perfil Profesional\n\nDesarrollador Full Stack con habilidades en frontend y backend, altamente proactivo, adaptable y con enfoque en el trabajo colaborativo. Cuento con experiencia sólida en tecnologías como Angular, React, Node.js y NestJS, implementando soluciones eficientes y escalables. Especializado en control de versiones con Git y en el uso de bases de datos relacionales y no relacionales, como SQL Server, PostgreSQL y Firebase. Apasionado por la innovación tecnológica, siempre en búsqueda de nuevos retos que impulsen mi crecimiento profesional y aporten valor a proyectos en los que colaboro.\n Con cada proyecto, una nueva historia de innovación y creatividad."
+  },
+  {
+    "objectID": "index.html#experiencia-laboral",
+    "href": "index.html#experiencia-laboral",
+    "title": "",
+    "section": "👨🏾‍💻 Experiencia Laboral",
+    "text": "👨🏾‍💻 Experiencia Laboral\n\n\nDesarrollador Fullstack | Mobilsoft S.A.S\n2016 - 2017\n\nImplementé diversas aplicaciones contables, sistemas de inventario y puntos de venta (POS), siguiendo una estructura en capas bajo la dirección del arquitecto de la empresa.\nDesarrollé soluciones robustas para la generación de reportes financieros y de inventario.\nLideré la migración de datos desde archivos Excel hacia bases de datos, optimizando el manejo de la información y mejorando la integridad de los datos.\n\n\n\nDesarrollador Full Stack | Pluriza S.A.S\n2019 - 2021\n\nParticipé en el desarrollo de una aplicación inmobiliaria, creando el panel administrativo para gestionar la información del sitio web principal, utilizando React y Node.js como backend.\nMejoré el flujo de trabajo con Git al socializar y aplicar la metodología Git Flow, facilitando la colaboración del equipo.\nColaboré en el desarrollo de una aplicación B2B para la creación de tiendas en línea desplegadas en AWS, implementando un sistema de integración continua con S3 Buckets y Node.js como backend.\nFormé parte de un proyecto internacional para la gestión de inventario de insumos eléctricos, utilizando Angular y Firebase. Desarrollé componentes reutilizables y optimicé la aplicación como PWA, permitiendo que las encuestas funcionaran sin conexión y se sincronizaran con la nube al restablecerse la conectividad.\n\n\n\nDesarrollador Full Stack | Nowstark S.A.S (Co-Founder)\n2021 - 2022\n\nImplementé la estructura frontend basada en Next.js para un sistema de envío masivo de correos con backend en .NET C#.\nDesarrollé la integración de sockets con SignalR para mantener un flujo continuo de datos en tiempo real, añadiendo notificaciones dinámicas en la interfaz.\nImplementé plantillas de correos personalizadas para el envío a distintos clientes y creé formularios dinámicos adaptados para la migración de datos según las necesidades de cada uno.\nParticipé en desarrollo de una tienda en línea para la venta de ropa de segunda mano, usando Next js y Node js como backend.\n\n\n\nIngeniero Senior | DigitalWare\n2022 - 2024\n\nIngresé como desarrollador de incidencias y rápidamente fui promovido a líder de incidencias, coordinando un equipo de 6 personas y resolviendo casos complejos.\nParticipé en el desarrollo de un sistema hospitalario HIS en Angular, contribuyendo a la implementación de módulos críticos.\nGeneré reportes basados en HTML utilizando herramientas como Puppeteer para mejorar el proceso de reporte automatizado.\nDesarrollé servicios backend en .NET C# y aplicaciones con Node.js para la implementación de servicios de manejo de imágenes.\nActué como arquitecto en un proyecto de PQRS, donde diseñé una arquitectura hexagonal con un patrón adaptador, reduciendo el tiempo de desarrollo en un 30%."
+  },
+  {
+    "objectID": "index.html#logros",
+    "href": "index.html#logros",
+    "title": "",
+    "section": "🏆 Logros",
+    "text": "🏆 Logros\n\n\nSer elegido como desarrollador del semestre en 2020 por el equipo de Pluriza\nSer elegido como desarrollador del semestre de 2022 por el equipo de DigitalWare"
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "",
+    "section": "📖 Educación",
+    "text": "📖 Educación\n\n\nTECNOLOGO EN ANALISIS Y DESARROLLO EN SISTEMAS DE INFORMACIÓN\nSENA (Servicio nacional de aprendizaje) | 2015 - 2017\nTECNICO EN SISTEMAS\nSENA (Servicio nacional de aprendizaje) | 2014 - 2018"
+  },
+  {
+    "objectID": "index.html#contacto",
+    "href": "index.html#contacto",
+    "title": "",
+    "section": "📬 Contacto",
+    "text": "📬 Contacto\n\n\nEmail: williamgalvisrivera@gmail.com\nLinkedin: Link\nGitHub: Link"
+  }
+]

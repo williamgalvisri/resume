@@ -1,0 +1,64 @@
+styles.css
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  gap: 40px;
+}
+
+.sidebar {
+  flex: 0 0 400px;
+  position: sticky;
+  top: 20px;
+  align-self: flex-start;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.img-profile img {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  filter: grayscale(100%);
+}
+
+.skills ul {
+  padding-left: 20px;
+}
+
+h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 10px;
+}
+
+.experiencia, .logros, .educacion, .contacto {
+  margin-bottom: 30px;
+}
+mark {
+  background-color: transparent;
+  color: #c793e5;
+  padding: 2px;
+}
+
+@media (max-width: 980px) {
+  .container {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    flex: 0;
+    position: static;
+    width: 100%;
+  }
+}
+
+a { 
+  color: #c793e5;
+}

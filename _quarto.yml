@@ -1,0 +1,7 @@
+lang: es
+project:
+  type: website
+  output-dir: docs
+theme:
+  dark: darkly
+  light: flatly

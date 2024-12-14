@@ -91,6 +91,7 @@ SENA (Servicio nacional de aprendizaje) | 2015 - 2017
 - #### TECNICO EN SISTEMAS
 SENA (Servicio nacional de aprendizaje) | 2014 - 2018
 - #### Udemy: Curso Angular de Cero a Experto  | 2024 - 2024 
+- #### Udemy: OWASP Top 10 API 2023 - Seguridad en API y web services | 2024 - 2024
 :::
 
 ## 📬 Contacto
